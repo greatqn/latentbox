@@ -116,3 +116,6 @@ This work is licensed under a
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
 
 <img src="public/assets/resources/latentbox-hero.svg" width="100%">
+## My Other Projects
+
+- [Holiday Printables](https://holidayprintables.com) — Free printable holiday templates (Christmas, Halloween, Thanksgiving, advent calendars, planners & coloring pages).
